@@ -1,0 +1,7 @@
+diffusers
+einops
+omegaconf
+wandb
+transformers
+accelerate
+loguru
